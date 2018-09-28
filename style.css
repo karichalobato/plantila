@@ -1,0 +1,29 @@
+/*Generales*/
+html * {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family:'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #CC0000;
+}
+
+/*Principal*/
+.principal {
+    height: 100vh;
+}
+
+.principal > * {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+
