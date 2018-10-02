@@ -467,6 +467,9 @@ div#imagen {
         height: 3.1rem;
     }
 }
-
+#message{
+  width: 80%;
+  max-width:100%
+}
 
 
